@@ -48,11 +48,15 @@ Refer to [these code samples](https://github.com/SherifElMahdi/botsfromzerotoher
 [Download here](https://www.microsoft.com/en-ae/store/p/intelligent-kiosk/9nblggh5qd84?rtc=1)
 
 ## Api keys <a name="api_keys"></a>
-**Computer vision:**
+**Computer vision:**  
 f06dbeb917314f5c90966fde33cbae98
  
-**Face:**
+**Face:**  
 a0f450031d4e4b74b89ce1184527a6d0
  
-**Text:**
+**Text:**  
 d24e9ecaeaa748178f348d994383c31a
+
+**Luis:**  
+ee271a1700324006bf8179642810d28d  
+2036ab76f9b64c73ab7b9713c2af2f9e 
