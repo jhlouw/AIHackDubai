@@ -45,4 +45,4 @@ Link: https://aka.ms/bothols
 Refer to [these code samples](https://github.com/SherifElMahdi/botsfromzerotohero)
 
 ## Intelligen Kiosk <a name="kiosk"></a>
-[Download here](https://www.microsoft.com/fr-ma/store/p/intelligent-kiosk/9nblggh5qd84?rtc=1&SilentAuth=1&wa=wsignin1.0)
+[Download here](https://www.microsoft.com/en-ae/store/p/intelligent-kiosk/9nblggh5qd84?rtc=1)
