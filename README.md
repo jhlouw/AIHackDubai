@@ -3,14 +3,23 @@
 
 # Table of Contents
 1. [Prerequisite](#prerequisite)
+5. [Setup for cognitive services](#cs_setup)
 2. [Setup the bot framework environment](#bot_setup)
 3. [Third Example](#bot_hands_on_labs)
 4. [Further code samples](#bot_code_samples)
-5. [Setup for cognitive services](#cs_setup)
+
 
 ## Prerequisite:
 * Make sure you can access the [azure portal](portal.azure.com/)
   * If you don't have access please reach out to one of the proctors for an Azure pass.
+
+## Setup for cognitive services <a name="cs_setup"></a>
+* Login to the [azure portal](portal.azure.com/)
+* Click on **All services**
+* Search for **Cognitive Services**
+  * If it doesn't show up, reach out to one of the proctors
+* Click on **Cognitive Services**
+* Make sure you can add a new cognitive service
 
 ## Setup the bot framework environment <a name="bot_setup"></a>
 * Install [Visual Studio 2017](https://www.visualstudio.com/downloads/) and [update all extensions](https://docs.microsoft.com/en-us/visualstudio/extensibility/how-to-update-a-visual-studio-extension).
@@ -34,10 +43,3 @@ Link: https://aka.ms/bothols
 ## Further code samples for chat bots <a name="bot_code_samples"></a>
 Refer to [these code samples](https://github.com/SherifElMahdi/botsfromzerotohero)
 
-## Setup for cognitive services <a name="cs_setup"></a>
-* Login to the [azure portal](portal.azure.com/)
-* Click on **All services**
-* Search for **Cognitive Services**
-  * If it doesn't show up, reach out to one of the proctors
-* Click on **Cognitive Services**
-* Make sure you can add a new cognitive service
