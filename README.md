@@ -48,6 +48,6 @@ Refer to [these code samples](https://github.com/SherifElMahdi/botsfromzerotoher
 [Download here](https://www.microsoft.com/en-ae/store/p/intelligent-kiosk/9nblggh5qd84?rtc=1)
 
 ## Luis keys <a name="luis_keys"></a>
-Key 1 : ee271a1700324006bf8179642810d28d 
-Key 2: 2036ab76f9b64c73ab7b9713c2af2f9e 
+1. ee271a1700324006bf8179642810d28d
+2. 2036ab76f9b64c73ab7b9713c2af2f9e 
 
