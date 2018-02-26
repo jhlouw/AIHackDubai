@@ -7,6 +7,7 @@
 4. [Hands on labs for cognitive services](#cs_hands_on_labs)
 5. [Hands on labs for chatbots](#bot_hands_on_labs)
 6. [Further code samples](#bot_code_samples)
+7. [Intelligen Kiosk](#kiosk)
 
 
 ## Prerequisite:
@@ -43,3 +44,5 @@ Link: https://aka.ms/bothols
 ## Further code samples for chat bots <a name="bot_code_samples"></a>
 Refer to [these code samples](https://github.com/SherifElMahdi/botsfromzerotohero)
 
+## Intelligen Kiosk <a name="kiosk"></a>
+[Download here](https://www.microsoft.com/fr-ma/store/p/intelligent-kiosk/9nblggh5qd84?rtc=1&SilentAuth=1&wa=wsignin1.0)
