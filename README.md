@@ -18,10 +18,18 @@
 *The Visual Studio 2017 project templates directory is typically located at ```%USERPROFILE%\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual C#\``` and the item templates directory is at ```%USERPROFILE%\Documents\Visual Studio 2017\Templates\ItemTemplates\Visual C#\```
 * [Bot Framework Channel Emulator](https://github.com/Microsoft/BotFramework-Emulator/releases/download/v3.5.35/botframework-emulator-Setup-3.5.35.exe)
 
-## Hands on labs content (to be completed) <a name="bot_hands_on_labs"></a>
+## Hands on labs for cognitive services <a name="bot_hands_on_labs"></a>
 1. [Custom Vision Lab](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.2_customvision01/0_README.md)
 2. [LUIS Lab](https://github.com/Azure/LearnAI-Bootcamp/blob/master/lab01.5-luis/1_LUIS.md)
 3. [Challenge: Build a console app/web app that consumes Translator Text API](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-info-overview)
+
+## Hands on labs for chatbots
+1. Simple Multi-Dialog Lab
+2. Prompt Dialog Lab
+3. Bot with a Cognitive Service API Lab
+4. Publish & Register your bot  Lab
+ 
+Link: https://aka.ms/bothols
 
 ## Further code samples for chat bots <a name="bot_code_samples"></a>
 Refer to [these code samples](https://github.com/SherifElMahdi/botsfromzerotohero)
