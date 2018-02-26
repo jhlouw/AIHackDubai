@@ -8,7 +8,7 @@
 5. [Hands on labs for chatbots](#bot_hands_on_labs)
 6. [Further code samples](#bot_code_samples)
 7. [Intelligen Kiosk](#kiosk)
-
+8. [Luis keys](#luis_keys)
 
 ## Prerequisite:
 * Make sure you can access the [azure portal](portal.azure.com/)
@@ -46,3 +46,8 @@ Refer to [these code samples](https://github.com/SherifElMahdi/botsfromzerotoher
 
 ## Intelligen Kiosk <a name="kiosk"></a>
 [Download here](https://www.microsoft.com/en-ae/store/p/intelligent-kiosk/9nblggh5qd84?rtc=1)
+
+## Luis keys <a name="luis_keys></a>
+Key 1 : ee271a1700324006bf8179642810d28d 
+Key 2: 2036ab76f9b64c73ab7b9713c2af2f9e 
+
