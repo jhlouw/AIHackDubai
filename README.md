@@ -42,7 +42,8 @@
 Link: https://aka.ms/bothols
 
 ## Further code samples for chat bots <a name="bot_code_samples"></a>
-Refer to [these code samples](https://github.com/SherifElMahdi/botsfromzerotohero)
+* [Bots from zero to hero](https://github.com/SherifElMahdi/botsfromzerotohero)
+* [BotBuilder-Samples](https://github.com/Microsoft/BotBuilder-Samples)
 
 ## Intelligen Kiosk <a name="kiosk"></a>
 [Download here](https://www.microsoft.com/en-ae/store/p/intelligent-kiosk/9nblggh5qd84?rtc=1)
